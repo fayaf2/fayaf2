@@ -1,10 +1,11 @@
 <h1 align="center">🤖✨ AI Innovator | Fayaz PM ✨🤖</h1>
 
 <p align="center">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/artificial-intelligence.png" alt="AI Icon"/>
+
   <br><br>
-  <img src="https://i.ibb.co/99NvLymB/12133548.png" alt="12133548"/>
+  <img src="https://i.ibb.co/99NvLymB/12133548.png" alt="12133548" width="120"/>
 </p>
+
 
 
 <h3 align="center">AI Graduate | Developer of <strong>AI Shieldware</strong> | Cyber Awareness Evangelist</h3>
