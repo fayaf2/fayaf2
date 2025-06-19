@@ -2,7 +2,10 @@
 
 <p align="center">
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/artificial-intelligence.png" alt="AI Icon"/>
+  <br><br>
+  <img src="https://i.ibb.co/99NvLymB/12133548.png" alt="12133548"/>
 </p>
+
 
 <h3 align="center">AI Graduate | Developer of <strong>AI Shieldware</strong> | Cyber Awareness Evangelist</h3>
 
@@ -45,7 +48,7 @@ I am a passionate AI developer building smart tools, focused on solving real-wor
 ## 🌐 Connect with Me
 
 - 🌍 Website: [fayaf2.github.io](https://fayaf2.github.io)
-- 📬 Email: fayazpmofficial@gmail.com
+- 📬 Email: fayazpm4v@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/fayazpm](https://linkedin.com/in/fayazpm)
 - 📸 Instagram: [@fayaz_pm_](https://instagram.com/fayaz_pm_)
 
