@@ -1,18 +1,21 @@
-# 👋 Hey, I'm Fayaz PM!
+<h1 align="center">🤖✨ AI Innovator | Fayaz PM ✨🤖</h1>
 
-🎓 AI Graduate | 💻 AI Developer | 🚀 Tech Enthusiast  
-🧠 Developer of **AI Shieldware** | Building tools to protect, assist, and empower
+<p align="center">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/artificial-intelligence.png" alt="AI Icon"/>
+</p>
+
+<h3 align="center">AI Graduate | Developer of <strong>AI Shieldware</strong> | Cyber Awareness Evangelist</h3>
 
 ---
 
 ## 💡 About Me
 
-I'm a passionate AI student from Chengannur, India 🇮🇳, focused on solving real-world problems using Artificial Intelligence, Voice Assistants, and Cybersecurity tools. I’m currently working on multiple projects, including:
+I am a passionate AI developer building smart tools, focused on solving real-world problems using Artificial Intelligence, Voice Assistants, and Cybersecurity tools. I’m currently working on multiple projects, including:
 
-- 🧠 **AI JARVIS Assistant** with voice commands, object detection, and smart automation
-- 🤖 **Helping Mode** for people with disabilities
-- 🛡️ **AI Shieldware** – an AI-powered cybersecurity and safety suite
-- 📸 AI-powered document/image extractors
+- 🧠 **AI JARVIS Assistant** with voice commands, object detection, and smart automation  
+- 🤖 **Helping Mode** for people with disabilities  
+- 🛡️ **AI Shieldware** – an AI-powered cybersecurity and safety suite  
+- 📸 AI-powered document/image extractors  
 
 ---
 
@@ -42,7 +45,7 @@ I'm a passionate AI student from Chengannur, India 🇮🇳, focused on solving 
 ## 🌐 Connect with Me
 
 - 🌍 Website: [fayaf2.github.io](https://fayaf2.github.io)
-- 📬 Email: fayazpm4v@gmail.com
+- 📬 Email: fayazpmofficial@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/fayazpm](https://linkedin.com/in/fayazpm)
 - 📸 Instagram: [@fayaz_pm_](https://instagram.com/fayaz_pm_)
 
