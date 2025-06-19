@@ -1,9 +1,9 @@
 <h1 align="center">🤖✨ AI Innovator | Fayaz PM ✨🤖</h1>
 
 <p align="center">
-  <img src="" alt="AI Icon"/>
-  <br><br>
   <img src="https://i.ibb.co/99NvLymB/12133548.png" alt="12133548" width="120"/>
+  <br><br>
+  
 </p>
 
 
